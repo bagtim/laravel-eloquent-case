@@ -40,7 +40,7 @@ class Grammar
 
     public function wrapColumn($value): string
     {
-        return '`'.str_replace('`', '``', $value).'`';
+        return '"'.$value.'"';
     }
 
     public function wrapValue($value): string
