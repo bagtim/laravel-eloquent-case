@@ -1,7 +1,6 @@
 {
-  "name": "aglipanci/laravel-eloquent-case",
+  "name": "bagtim/laravel-eloquent-case",
   "description": "Adds CASE statement support to Laravel Query Builder.",
-  "homepage": "https://github.com/aglipanci/laravel-case",
   "license": "MIT",
   "authors": [
     {
